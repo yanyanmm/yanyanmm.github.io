@@ -1,1 +1,1 @@
-# yanyanmm.github.io
+echo "# yanyanmm.github.io"
